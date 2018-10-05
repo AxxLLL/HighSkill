@@ -7,6 +7,7 @@ Serwer w czasach świetności był Top 1 wśród społeczności A/D.
 Do moich zadań należał rozwój GameModa, systemów administracyjnych "InGame" jak i na stronie WWW, anty-cheat'ów, statystyk "InGame" oraz WWW.
 
 Wykorzystane języki: Pawn, PHP, MySQL/SQL.
+
 Niestety, od czasu zamknięcia serwera minęło już parę lat i pliki WWW w większości przepadły... Jeśli kiedyś je znajdę, dorzucę je do repozytorium.
 
 Screeny z gry zostaną dodane wkrótce...
