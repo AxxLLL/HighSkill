@@ -8,4 +8,5 @@ Do moich zadań należał rozwój GameModa, systemów administracyjnych "InGame"
 
 Wykorzystane języki: Pawn, PHP, MySQL/SQL.
 Niestety, od czasu zamknięcia serwera minęło już parę lat i pliki WWW w większości przepadły... Jeśli kiedyś je znajdę, dorzucę je do repozytorium.
+
 Screeny z gry zostaną dodane wkrótce...
